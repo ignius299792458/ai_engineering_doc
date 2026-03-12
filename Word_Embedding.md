@@ -4,6 +4,10 @@
 
 ---
 
+# Reference
+
+Youtube channel : [Under the Hood] What are Word Embeddings? -> https://www.youtube.com/watch?v=hVM8qGRTaOA&t=299s
+
 # 📋 TABLE OF CONTENTS
 
 ```
